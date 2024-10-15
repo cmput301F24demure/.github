@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+ Welcome To The Organization Page for team Demure for the Fall 2024 semester of CMPUT 301!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If youre looking for our wiki, where we keep our various project deliverables, it can be found at this link: https://github.com/cmput301F24demure/demure/wiki
+
+Alternatively, you can navigate to our public repository "demure" and find it under the wiki tab.
+
